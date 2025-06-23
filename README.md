@@ -1,7 +1,7 @@
 # Hackintosh Machinist MR9A
 ### Generate your own SMBIOS, recommended MacPro7,1
 
-### Check your GPU and Wireless
+### Check your GPU and Wireless Card
 
 ![Generic Case](https://github.com/user-attachments/assets/6c053c42-dbe7-491e-ae21-12e7cc8c89db)
 
