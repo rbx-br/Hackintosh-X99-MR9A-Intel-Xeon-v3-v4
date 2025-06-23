@@ -2,6 +2,7 @@
 ### Generate your own SMBIOS, recommended MacPro7,1
 
 ### Check your GPU and Wireless Card
+### Maybe need remap USB 3.0 from your case
 
 ![Generic Case](https://github.com/user-attachments/assets/6c053c42-dbe7-491e-ae21-12e7cc8c89db)
 
