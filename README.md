@@ -55,6 +55,8 @@ Bluetooth
 
 Sleep
 
+Wi-Fi on macOS Tahoe ***(wating a new version of OCLP to patch)***
+
 ![26](https://github.com/user-attachments/assets/e3f20b34-c05a-4dd7-a460-5680296a1919) ***macOS Tahoe 26.0 Beta 1***
 
 macOS Tahoe Beta 1 won't work with GPU Polaris
